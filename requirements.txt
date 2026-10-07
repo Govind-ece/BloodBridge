@@ -1,0 +1,2 @@
+# BloodBridge currently uses Python's standard library.
+# Optional packages can be added later if required.

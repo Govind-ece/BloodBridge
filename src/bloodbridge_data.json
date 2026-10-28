@@ -1,0 +1,22 @@
+{
+    "donors": [
+        {
+            "id": 1,
+            "name": "suresh",
+            "age": 22,
+            "blood_group": "B+",
+            "location": "lpu",
+            "available": "yes",
+            "units_available": 2
+        }
+    ],
+    "blood_requests": [
+        {
+            "id": 1,
+            "recipient_name": "1",
+            "blood_group": "B+",
+            "location": "delhi",
+            "units": 2
+        }
+    ]
+}
